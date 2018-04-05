@@ -7,7 +7,7 @@ import { render } from 'react-dom';
 //import Demo from './cards/MediaControlCard';
 //import Demo from './cards/RecipeReviewCard';
 //
-import Demo from './cards/Gh0Card';
+//import Demo from './cards/Gh0Card';
 // grid-list
 //import Demo from './grid-list/AdvancedGridList';
 //import Demo from './grid-list/ImageGridList';
@@ -17,7 +17,8 @@ import Demo from './cards/Gh0Card';
 //import Demo from './grid-list/SimpleCardGL';
 //import Demo from './grid-list/SimpleMediaCardGL';
 //import Demo from './grid-list/RecipeReviewCardGL';
-
+//
+import Demo from './grid-list/Gh0CardGL';
 const rootElement = document.querySelector('#root');
 if (rootElement) {
   render(<Demo />, rootElement);
