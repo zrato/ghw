@@ -1,0 +1,21 @@
+{
+  "name": "mui-ccg",
+  "description": "SimpleMediaCard.js",
+  "license": "MIT",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "material-ui": "next",
+    "material-ui-icons": "1.0.0-beta.36",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
