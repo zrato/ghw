@@ -1,3 +1,6 @@
+// This was the ImageGridList prior to swapping out
+// an img for a RecipeReviewCard...
+
 import React from 'react';
 import PropTypes from 'prop-types';
 import { withStyles } from 'material-ui/styles';

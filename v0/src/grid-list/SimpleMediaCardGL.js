@@ -1,3 +1,6 @@
+// This was the ImageGridList prior to swapping out
+// an img for a SimpleMediaCard...
+
 import React from 'react';
 import PropTypes from 'prop-types';
 import { withStyles } from 'material-ui/styles';
@@ -21,7 +24,7 @@ const styles = theme => ({
     width: '100%',
   },
 });
- 
+
 function SimpleMediaCardGL(props) {
   const { classes } = props;
 
