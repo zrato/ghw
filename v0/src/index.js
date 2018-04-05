@@ -11,7 +11,7 @@ import { render } from 'react-dom';
 //import Demo from './grid-list/ImageGridList';
 //import Demo from './grid-list/SingleLineGridList';
 //import Demo from './grid-list/TitlebarGridList';
-import Demo from './grid-list/SimpleCardGL';
+import Demo from './grid-list/SimpleMediaCardGL';
 
 const rootElement = document.querySelector('#root');
 if (rootElement) {
