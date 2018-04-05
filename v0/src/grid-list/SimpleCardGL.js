@@ -24,25 +24,7 @@ const styles = theme => ({
     width: '100%',
   },
 });
-
-/**
- * The example data is structured as follows:
- *
- * import image from 'path/to/image.jpg';
- * [etc...]
- *
- * const tileData = [
- *   {
- *     img: image,
- *     title: 'Image',
- *     author: 'author',
- *     cols: 2,
- *   },
- *   {
- *     [etc...]
- *   },
- * ];
- */
+ 
 function SimpleCardGL(props) {
   const { classes } = props;
 
