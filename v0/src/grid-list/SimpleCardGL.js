@@ -40,7 +40,7 @@ const styles = theme => ({
  *   },
  * ];
  */
-function CardGridList(props) {
+function SimpleCardGL(props) {
   const { classes } = props;
 
   return (
@@ -56,8 +56,8 @@ function CardGridList(props) {
   );
 }
 
-CardGridList.propTypes = {
+SimpleCardGL.propTypes = {
   classes: PropTypes.object.isRequired,
 };
 
-export default withStyles(styles)(CardGridList);
+export default withStyles(styles)(SimpleCardGL);
