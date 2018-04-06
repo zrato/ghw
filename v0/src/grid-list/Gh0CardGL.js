@@ -30,7 +30,7 @@ function Gh0CardGL(props) {
 
   return (
     <div className={classes.root}>
-      <GridList cellHeight={160} className={classes.gridList} cols={3}>
+      <GridList cellHeight={250} className={classes.gridList} cols={3}>
         {tileData.map(tile => (
           <GridListTile key={tile.img} cols={tile.cols || 1}>
             <Gh0Card />
