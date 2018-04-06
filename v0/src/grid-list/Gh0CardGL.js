@@ -17,8 +17,8 @@ const styles = theme => ({
     backgroundColor: theme.palette.background.paper,
   },
   gridList: {
-    width: 500,
-    height: 450,
+    width: 600,
+    height: 720,
   },
   subheader: {
     width: '100%',

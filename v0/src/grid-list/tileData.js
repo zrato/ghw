@@ -3,7 +3,7 @@ const tileData = [
     img: 'https://avatars3.githubusercontent.com/u/1809991?s=400&v=4',
     title: 'Breakfast',
     author: 'jill111',
-    cols: 2,
+    cols: 1,
     featured: true,
   },
   {
@@ -36,7 +36,7 @@ const tileData = [
     img: 'https://avatars3.githubusercontent.com/u/1809991?s=400&v=4',
     title: 'Vegetables',
     author: 'jill111',
-    cols: 2,
+    cols: 1,
   },
   {
     img: 'https://avatars3.githubusercontent.com/u/1809991?s=400&v=4',
@@ -56,7 +56,7 @@ const tileData = [
   {
     img: 'https://avatars3.githubusercontent.com/u/1809991?s=400&v=4',
     title: 'Sea star',
-    cols: 2,
+    cols: 1,
     author: '821292',
   },
   {
